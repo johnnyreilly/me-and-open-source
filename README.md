@@ -115,7 +115,7 @@ https://en.wikipedia.org/wiki/GitHub
 
 ### My first open source project!
 
-[jQuery.Validation.Unobtrusive.Native](https://github.com/johnnyreilly/jQuery.Validation.Unobtrusive.Native)
+<a href="https://github.com/johnnyreilly/jQuery.Validation.Unobtrusive.Native" target="_blank">`jQuery.Validation.Unobtrusive.Native`</a>
 
 <aside class="notes">
 <ul>
@@ -138,6 +138,7 @@ https://en.wikipedia.org/wiki/GitHub
 <ul>
 <li>Very nervous - imposter syndrome</li>
 <li>Docs - not "code"</li>
+<li>Paris</li>
 <li>Why am I telling you this?</li>
 <li>driven by work usage</li>
 </ul>
@@ -165,9 +166,10 @@ https://en.wikipedia.org/wiki/GitHub
 
 <aside class="notes">
 <ul>
-<li>ts-loader abandoned</li>
-<li>decided to help</li>
-<li>still totally imposter</li>
+<li>high maintenance</li>
+<li>decided to make it easier to work on</li>
+<li>I needed it</li>
+<li>I was having fun!</li>
 </ul>
 </aside>
 
@@ -188,12 +190,13 @@ https://en.wikipedia.org/wiki/GitHub
 
 ---
 
-### I'm not a great developer...
+### I'm not a great engineer...
 
 ```cs
-John_Reilly == good_developer + 
-               works_hard_at_communicating + 
-               enthusiastic
+johnnyreilly == good_engineer + 
+                works_hard_at_communicating + 
+                curious + 
+                enthusiastic
 ```
 
 <aside class="notes">
@@ -263,4 +266,4 @@ John_Reilly == good_developer +
 
 <img src="GitHub_Logo_White.png" alt="GitHub logo" style="width:500px;" />
 
-<a href="https://github.com/" target="_blank">Let's make an organisation.</a>
+<a href="https://github.com/organizations/new" target="_blank">Let's make an organisation.</a>
