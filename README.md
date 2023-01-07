@@ -26,6 +26,7 @@ title: "Me and Open Source"
 - I blog: https://blog.johnnyreilly.com
 - I OSS: https://github.com/johnnyreilly
 - I tweet: https://twitter.com/johnny_reilly
+- I toot(?): https://fosstodon.org/@johnny_reilly
 
 <aside class="notes">
 <ul>
@@ -73,7 +74,7 @@ title: "Me and Open Source"
 
 <aside class="notes">
 <ul>
-<li>Started to see code</li>
+<li>Started to see OSS projects 2008</li>
 </ul>
 </aside>
 
@@ -90,6 +91,7 @@ title: "Me and Open Source"
 <ul>
 <li>Microsoft and OSS 2007</li>
 <li>Scott Hanselman</li>
+<li>John Resig - jQuery (my JS journey from 1999?)</li>
 <li>should i be doing something?</li>
 </ul>
 </aside>
@@ -146,6 +148,23 @@ https://en.wikipedia.org/wiki/GitHub
 
 ---
 
+### Definitely Typed!
+
+https://johnnyreilly.com/definitely-typed-the-movie
+
+[![Definitely Typed](definitely-typed-the-movie.webp)](https://johnnyreilly.com/definitely-typed-the-movie)
+
+<aside class="notes">
+<ul>
+<li>I wrote the history because I was there</li>
+<li>I used DT because I like TS</li>
+<li>I made jQuery a *really* good type definition</li>
+<li>whistlestop tour?</li>
+</ul>
+</aside>
+
+---
+
 ### 2016: `ts-loader`
 
 <a href="https://blog.johnnyreilly.com/2016/11/01/but-you-cant-die-i-love-you-ts-loader"><img src="caretaker-ts-loader.png" alt="keep calm I'm a caretaker" /></a>
@@ -184,19 +203,19 @@ https://en.wikipedia.org/wiki/GitHub
 
 <aside class="notes">
 <ul>
-<li>ts-loader used by Bloomberg, Investec, Microsoft, Google etc</li>
+<li>ts-loader used by Bloomberg, Investec, Microsoft, Google, Cloudflare (?) etc</li>
 </ul>
 </aside>
 
 ---
 
-### I'm not a great engineer...
+### I'm not the best engineer...
 
 ```cs
-johnnyreilly == good_engineer + 
-                works_hard_at_communicating + 
-                curious + 
-                enthusiastic
+johnnyreilly === good_engineer + 
+                 works_hard_at_communicating + 
+                 curious + 
+                 enthusiastic
 ```
 
 <aside class="notes">
@@ -241,29 +260,7 @@ johnnyreilly == good_engineer +
 
 ---
 
-### What could OSS do for us...
-### What if we gave back? {.fragment}
+### Enjoy yourself!
 
-#### 1. Talent {.fragment}
-#### 2. Pride {.fragment}
-#### 3. Fun & Profit {.fragment}
+<img src="oss-needs-you.png" alt="drawing" style="width:600px; background-color: white;" />
 
-<aside class="notes">
-<ul>
-<li>attract / retain talent</li>
-<li>I'm proud - I've changed the world a little bit - you could too</li>
-<li>Not joking about profit - the market looks for signs of engineering excellence</li>
-</ul>
-</aside>
-
----
-
-### And if we do OSS...
-
-### Where would we do it?
-
----
-
-<img src="GitHub_Logo_White.png" alt="GitHub logo" style="width:500px;" />
-
-<a href="https://github.com/organizations/new" target="_blank">Let's make an organisation.</a>
