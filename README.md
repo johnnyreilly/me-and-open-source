@@ -23,7 +23,7 @@ title: "Me and Open Source"
 
 ## Hi, I'm John.
 
-- I blog: https://blog.johnnyreilly.com
+- I blog: https://johnnyreilly.com
 - I OSS: https://github.com/johnnyreilly
 - I tweet: https://twitter.com/johnny_reilly
 - I toot(?): https://fosstodon.org/@johnny_reilly
@@ -141,7 +141,7 @@ https://en.wikipedia.org/wiki/GitHub
 <li>Very nervous - imposter syndrome</li>
 <li>Docs - not "code"</li>
 <li>Paris</li>
-<li>Why am I telling you this?</li>
+<li>built my confidence</li>
 <li>driven by work usage</li>
 </ul>
 </aside>
@@ -197,7 +197,7 @@ https://johnnyreilly.com/definitely-typed-the-movie
 ### 2022: `ts-loader`
 
 - From ~5 million downloads per year
-- To ~200 million downloads per year
+- To ~270 million downloads per year
 
 <a href="https://npm-stat.com/charts.html?package=ts-loader&from=2014-01-20&to=2022-09-20"><img src="ts-loader-downloads.png" alt="keep calm I'm a caretaker" /></a>
 
