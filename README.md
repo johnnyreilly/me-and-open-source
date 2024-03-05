@@ -4,12 +4,12 @@ transition: "slide"
 highlightTheme: "monokai"
 logoImg: "avatar.jpeg"
 slideNumber: false
-title: "Me and Software Engineering"
+title: "Me & You & Software Engineering"
 ---
 
 <!-- .slide: data-background="me_and_orson_wells.jpg" -->
 
-# Me and Software Engineering
+# Me & You & Software Engineering
 
 <aside class="notes">
 <ul>
@@ -34,8 +34,9 @@ title: "Me and Software Engineering"
 <aside class="notes">
 <ul>
 <li>Software engineers are needed *everywhere*</li>
-<li>Worked at a bank called Investec for 6 years</li>
+<li>do you have a phone? it runs software</li>
 <li>Working in finance, telecoms, marketing, for Microsoft and others</li>
+<li>friends work at Instagram, WhatsApp</li>
 </ul>
 </aside>
 
@@ -61,7 +62,7 @@ LEGO for Software Engineering: https://sites.ccsu.edu/lego-se/
 
 ### What might you work on?
 
-<img src="screenshot-zebragpt.png" alt="screenshot of ZebraGPT" style="width:600px;" />
+<img src="screenshot-zebragpt.png" alt="screenshot of ZebraGPT" style="width:800px;" />
 
 <aside class="notes">
 <ul>
@@ -76,13 +77,13 @@ LEGO for Software Engineering: https://sites.ccsu.edu/lego-se/
 
 ### How did we get here?
 
-<img src="john-amstrad.webp"  alt="drawing" style="width:600px;" />
+<img src="john-amstrad.webp"  alt="drawing" style="width:800px;" />
 
 <aside class="notes">
 <ul>
 <li>Dad bought a computer when I was 8</li>
 <li>Programming listings</li>
-<li>did computer science at a-level, not uni</li>
+<li>did computer science at a-level, not uni (I wanted to be "cool")</li>
 <li>I was an apprentice</li>
 </ul>
 </aside>
@@ -91,7 +92,7 @@ LEGO for Software Engineering: https://sites.ccsu.edu/lego-se/
 
 ### Starting out
 
-<img src="started-writing-delphi.jpg"  alt="drawing" style="width:700px;" />
+<img src="started-writing-delphi.jpg"  alt="drawing" style="width:900px;" />
 
 <aside class="notes">
 <ul>
@@ -104,9 +105,36 @@ LEGO for Software Engineering: https://sites.ccsu.edu/lego-se/
 
 ---
 
+### Two pizza team!
+
+<img src="two-pizza-team.jpg"  alt="drawing" style="width:900px;" />
+
+<aside class="notes">
+<ul>
+<li>not too big, not too small</li> 
+</ul>
+</aside>
+
+---
+
+### Teamwork!
+
+<img src="business-savings.png"  alt="drawing" style="width:900px;" />
+
+<aside class="notes">
+<ul>
+<li>building software is a team sport</li>
+<li>engineers, UI, UX, scrum masters</li>
+<li>short iterations and retrospectives?</li>
+<li>talk a little about business savings</li>
+</ul>
+</aside>
+
+---
+
 ### Communication!
 
-<img src="me-presenting-zebragpt.jpg"  alt="drawing" style="width:700px;" />
+<img src="me-presenting-zebragpt.jpg"  alt="drawing" style="width:900px;" />
 
 <aside class="notes">
 <ul>
@@ -154,7 +182,7 @@ johnnyreilly == good_engineer +
 
 ### What could Software Development do for you?
 
-#### 1. Build your brand
+#### 1. Satisfaction
 #### 2. Collaborate
 #### 3. Communicate
 #### 4. Fun & Profit
@@ -168,17 +196,11 @@ johnnyreilly == good_engineer +
 
 ---
 
-### Hello world
+# Demo!
 
-<img src="hello-world.jpg"  alt="drawing" style="width:700px;" />
+---
 
-<aside class="notes">
-<ul>
-<li>My son was born</li>
-<li>Start blogging</li>
-<li>Start OSS</li>
-</ul>
-</aside>
+# Questions!
 
 ---
 
