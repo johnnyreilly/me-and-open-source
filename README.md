@@ -14,10 +14,10 @@ title: "Me & You & Software Engineering"
 <aside class="notes">
 <ul>
 <li>Coded since I was 8 years old</li>
+<li>Ground rules: interrupt!</li>
 <li>Been paid to develop software since I was 22</li>
 <li>It's brought me joy, it's made the world slightly better</li>
 <li>I want to reduce the mystery</li>
-<li>You have permission to interrupt!</li>
 </ul>
 </aside>
 
@@ -117,7 +117,7 @@ LEGO for Software Engineering: https://sites.ccsu.edu/lego-se/
 
 ---
 
-### Teamwork!
+### Here's a team!
 
 <img src="business-savings.png"  alt="drawing" style="width:900px;" />
 
@@ -204,25 +204,7 @@ johnnyreilly == good_engineer +
 
 ---
 
-### Contributing to other open source projects...
-
-- [Docs - Angular.js](https://github.com/angular/angular.js/pull/8773)
-- [Docs - jQuery Validation](https://github.com/jquery-validation/validation-content/pull/3)
-- [Type Definitions - Definitely Typed](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/841)
-
-<aside class="notes">
-<ul>
-<li>Very nervous - imposter syndrome</li>
-<li>Docs - not "code"</li>
-<li>Paris</li>
-<li>Why am I telling you this?</li>
-<li>driven by work usage</li>
-</ul>
-</aside>
-
----
-
-### 2022: `ts-loader`
+### 2022: Open Source: `ts-loader`
 
 - From ~5 million downloads per year
 - To ~200 million downloads per year
