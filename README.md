@@ -4,18 +4,17 @@ transition: "slide"
 highlightTheme: "monokai"
 logoImg: "avatar.jpeg"
 slideNumber: false
-title: "Me and Open Source"
+title: "A Hitchhiker's Guide to Open Source"
 ---
 
-<!-- .slide: data-background="me_and_orson_wells.jpg" -->
-
-# Me & Open Source
+<img src="hitchhikers-guide-to-the-open-source.png" alt="hitchikers guide to the galaxy logo tweaked with OSS over the galaxy word" style="width: 80%" />
 
 <aside class="notes">
 <ul>
 <li>Done open source / blogged for 10 years</li>
 <li>It's brought me joy, it's made the world slightly better</li>
-<li>I want to reduce the mystery</li>
+<li>Want to share some tips on how to OSS</li>
+<li>Worked at Investec for 7 years</li>
 </ul>
 </aside>
 
@@ -23,112 +22,111 @@ title: "Me and Open Source"
 
 ## Hi, I'm John.
 
-- I blog: https://blog.johnnyreilly.com
+- I blog: https://johnnyreilly.com
 - I OSS: https://github.com/johnnyreilly
-- I tweet: https://twitter.com/johnny_reilly
+- I Bluesky: https://bsky.app/profile/johnnyreilly.com
+
+---
+
+### What have I worked on?
+
+ts-loader: https://github.com/TypeStrong/ts-loader
 
 <aside class="notes">
 <ul>
-<li>Worked at Investec for 5 years</li>
-<li>What I do outside of work</li>
+<li>ts-loader since 2016 - 25 million downloads a month</li>
 </ul>
 </aside>
 
 ---
 
-### Let me take you back...
+### What have I worked on?
 
-<img src="eight-year-old-john.jpg"  alt="drawing" style="width:700px;" />
+<p class="fragment fade-in-then-semi-out">
+    Definitely Typed: <a href="https://github.com/DefinitelyTyped/DefinitelyTyped">https://github.com/DefinitelyTyped/DefinitelyTyped</a>
+    <img src="screenshot-definitely-typed.png" alt="screenshot of the DT repo" style="width: 70%" />
+</p>
+<p class="fragment fade-in-then-semi-out">
+    I wrote the history of DT: <a href="https://johnnyreilly.com/definitely-typed-the-movie">https://johnnyreilly.com/definitely-typed-the-movie</a>
+</p>
+
 
 <aside class="notes">
 <ul>
-<li>Dad bought a computer when I was 8</li>
-<li>Programming listings</li>
-<li>did computer science at a-level, not uni</li>
+<li>Worked on DT heavily until MS got involved</li>
 </ul>
 </aside>
 
 ---
 
-### Starting out
+### What have I worked on?
 
-<img src="started-writing-delphi.jpg"  alt="drawing" style="width:700px;" />
+Docusaurus: https://github.com/facebook/docusaurus
+
+<img src="screenshot-docusaurus.png" alt="screenshot of docusaurus contribution" style="width: 40%" />
 
 <aside class="notes">
 <ul>
-<li>Didn't do computer science</li>
-<li>Got an apprenticeship</li>
-<li>worked in telecoms, marketing, pre oss microsoft, finance</li> 
+<li>Powers my blog</li>
 </ul>
 </aside>
 
 ---
 
-### OSS goes mainstream:
-### GitHub
+### Tip #1: Impostor syndrome
 
-<img src="GitHub-Logo-2008-2013-700x394.png"  alt="drawing" style="width:700px; background-color: white;" />
+"I'm not a great engineer..."
 
-"I can see code!"
+```cs
+johnnyreilly == good_engineer + 
+                works_hard_at_communicating + 
+                curious + 
+                enthusiastic
+```
 
 <aside class="notes">
 <ul>
-<li>Started to see code</li>
+<li>there are more talented engineers in this room than me</li>
+<li>you might doubt yourself - but that's just modesty and imposter syndrome</li>
+<li>notice it and push through it</li>
 </ul>
 </aside>
 
 ---
 
-### OSS goes mainstream:
-### Microsoft
+### Tip #2: You belong with me
 
-<img src="microsoft-and-open-source.png"  alt="drawing" style="width:700px;" />
+- What are you interested in?
+- What do you use?
+- Look at `Contributing.md`
+- You're welcome...?
 
-"This is for me?"
-
-<aside class="notes">
-<ul>
-<li>Microsoft and OSS 2007</li>
-<li>Scott Hanselman</li>
-<li>should i be doing something?</li>
-</ul>
-</aside>
-
-
-https://en.wikipedia.org/wiki/GitHub
-
----
-
-### Hello world
-
-<img src="hello-world.jpg"  alt="drawing" style="width:700px;" />
+<img src="youre-welcome.jpeg" alt="moana picture from the youre welcome song" style="width: 42%" />
 
 <aside class="notes">
 <ul>
-<li>My son was born</li>
-<li>Start blogging</li>
-<li>Start OSS</li>
+<li>Do you align with the direction of the project?</li>
+<li>is this a welcoming community</li> 
+<li>is this project active / welcoming contributions</li>
 </ul>
 </aside>
 
 ---
 
-### My first open source project!
-
-<a href="https://github.com/johnnyreilly/jQuery.Validation.Unobtrusive.Native" target="_blank">`jQuery.Validation.Unobtrusive.Native`</a>
+### Tip #3: Docs and tests!
 
 <aside class="notes">
 <ul>
-<li>jQuery Validation</li>
-<li>Spotted a gap</li>
-<li>used with Knockout JS</li>
-<li>driven by work usage</li>
+<li>Docs and tests are the best way to get started</li>
+<li>They're the best way to learn the codebase</li>
 </ul>
 </aside>
 
 ---
 
-### Contributing to other open source projects...
+### Tip #3: Docs and tests!
+
+#### My first contributions...
 
 - [Docs - Angular.js](https://github.com/angular/angular.js/pull/8773)
 - [Docs - jQuery Validation](https://github.com/jquery-validation/validation-content/pull/3)
@@ -143,6 +141,64 @@ https://en.wikipedia.org/wiki/GitHub
 <li>driven by work usage</li>
 </ul>
 </aside>
+
+---
+
+### Tip #4: Written communication
+
+<img src="kind-typist.webp" alt="A cheerful kind girl is typing at a computer cartoon picture bright juicy colors 2d cartoon" style="width: 50%;" />
+
+<aside class="notes">
+<ul>
+<li>Written communication is hard</li>
+<li>emojis</li>
+<li>Put the same energy into reading</li>
+<li>Assume good intent</li>
+</ul>
+</aside>
+
+---
+
+### Tip #5: Just get going!
+
+<img src="started-writing-delphi.jpg"  alt="drawing" style="width:700px;" />
+
+<aside class="notes">
+<ul>
+<li>this is me at 21, *not* doing OSS</li> 
+</ul>
+</aside>
+
+---
+
+### Tip #5: Just get going!
+
+<img src="hello-world.jpg"  alt="drawing" style="width:700px;" />
+
+<aside class="notes">
+<ul>
+<li>This is me years later when my son was born when I started</li>
+<li>Don't take as long as I did!</li>
+</ul>
+</aside>
+
+---
+
+<img src="enjoy-yourself.webp"  alt="a picture of the specials" style="width:60%;" />
+
+<aside class="notes">
+<ul>
+<li>Have fun!</li>
+<li>Invest wisely - if you feel unwelcome then leave</li>
+<li>Be welcoming</li>
+</ul>
+</aside>
+
+---
+
+<!-- .slide: data-background="hitchhikers-guide-to-the-open-source.png"  data-background-repeat="repeat" data-background-size="150px" -->
+
+# Questions?
 
 ---
 
@@ -190,41 +246,6 @@ https://en.wikipedia.org/wiki/GitHub
 
 ---
 
-### I'm not a great engineer...
-
-```cs
-johnnyreilly == good_engineer + 
-                works_hard_at_communicating + 
-                curious + 
-                enthusiastic
-```
-
-<aside class="notes">
-<ul>
-<li>there are more talented engineers in this room than me</li>
-<li>you might doubt yourself - but that's just modesty and imposter syndrome</li>
-</ul>
-</aside>
-
----
-
-### What did OSS do for me?
-
-### 1. Fun
-### 2. Profit
-
-<aside class="notes">
-<ul>
-<li>had fun</li>
-<li>made a difference</li>
-<li>worked with talented people I might never have encountered</li>
-<li>helped get me jobs / work</li>
-<li>mostly driven by work I was doing</li>
-</ul>
-</aside>
-
----
-
 ### What could OSS do for you?
 
 #### 1. Build your brand
@@ -241,29 +262,5 @@ johnnyreilly == good_engineer +
 
 ---
 
-### What could OSS do for us...
-### What if we gave back? {.fragment}
 
-#### 1. Talent {.fragment}
-#### 2. Pride {.fragment}
-#### 3. Fun & Profit {.fragment}
 
-<aside class="notes">
-<ul>
-<li>attract / retain talent</li>
-<li>I'm proud - I've changed the world a little bit - you could too</li>
-<li>Not joking about profit - the market looks for signs of engineering excellence</li>
-</ul>
-</aside>
-
----
-
-### And if we do OSS...
-
-### Where would we do it?
-
----
-
-<img src="GitHub_Logo_White.png" alt="GitHub logo" style="width:500px;" />
-
-<a href="https://github.com/organizations/new" target="_blank">Let's make an organisation.</a>
