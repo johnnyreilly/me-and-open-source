@@ -32,6 +32,8 @@ title: "A Hitchhiker's Guide to Open Source"
 
 ts-loader: https://github.com/TypeStrong/ts-loader
 
+<img src="screenshot-ts-loader.png" alt="screenshot of ts-loader npm website"  />
+
 <aside class="notes">
 <ul>
 <li>ts-loader since 2016 - 25 million downloads a month</li>
@@ -107,7 +109,9 @@ johnnyreilly == good_engineer +
 <ul>
 <li>Do you align with the direction of the project?</li>
 <li>is this a welcoming community</li> 
-<li>is this project active / welcoming contributions</li>
+<li>Invest wisely - if you feel unwelcome then leave</li>
+<li>be aware of not first language folk</li> 
+<li>is this project active </li>
 </ul>
 </aside>
 
@@ -159,7 +163,21 @@ johnnyreilly == good_engineer +
 
 ---
 
-### Tip #5: Just get going!
+### Tip #5: You can't push water uphill
+
+Here’s an example of proposal that was welcomed and ended up landing: https://github.com/facebook/docusaurus/issues/9274 
+
+Here’s an example of a PR / proposal that did not land: https://github.com/facebook/docusaurus/pull/10105 
+
+<aside class="notes">
+<ul>
+<li>you might want to do things that don't align with the project</li>
+</ul>
+</aside>
+
+---
+
+### Tip #6: Just get going!
 
 <img src="started-writing-delphi.jpg"  alt="drawing" style="width:700px;" />
 
@@ -171,7 +189,7 @@ johnnyreilly == good_engineer +
 
 ---
 
-### Tip #5: Just get going!
+### Tip #6: Just get going!
 
 <img src="hello-world.jpg"  alt="drawing" style="width:700px;" />
 
@@ -190,7 +208,7 @@ johnnyreilly == good_engineer +
 <ul>
 <li>Have fun!</li>
 <li>Invest wisely - if you feel unwelcome then leave</li>
-<li>Be welcoming</li>
+<li>Be welcoming / kind</li>
 </ul>
 </aside>
 
