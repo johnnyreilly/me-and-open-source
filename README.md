@@ -9,14 +9,6 @@ title: "A Hitchhiker's Guide to Open Source"
 
 <img src="hitchhikers-guide-to-the-open-source.png" alt="hitchikers guide to the galaxy logo tweaked with OSS over the galaxy word" style="width: 80%" />
 
-<aside class="notes">
-<ul>
-<li>Done open source / blogged for 10 years</li>
-<li>It's brought me joy, it's made the world slightly better</li>
-<li>Want to share some tips on how to OSS</li>
-<li>Worked at Investec for 7 years</li>
-</ul>
-</aside>
 
 ---
 
@@ -25,6 +17,15 @@ title: "A Hitchhiker's Guide to Open Source"
 - I blog: https://johnnyreilly.com
 - I OSS: https://github.com/johnnyreilly
 - I Bluesky: https://bsky.app/profile/johnnyreilly.com
+
+<aside class="notes">
+<ul>
+<li>Done open source / blogged for 10 years</li>
+<li>It's brought me joy, it's made the world slightly better</li>
+<li>Want to share some tips on how to OSS</li>
+<li>Worked at Investec for 7 years</li>
+</ul>
+</aside>
 
 ---
 
@@ -177,7 +178,15 @@ Here’s an example of a PR / proposal that did not land: https://github.com/fac
 
 ---
 
-### Tip #6: Just get going!
+### Tip #6: Perspective is everything
+
+- Your time is a gift
+- You owe no-one anything
+- Mental health is key 
+
+---
+
+### Tip #7: Just get going!
 
 <img src="started-writing-delphi.jpg"  alt="drawing" style="width:700px;" />
 
@@ -189,7 +198,7 @@ Here’s an example of a PR / proposal that did not land: https://github.com/fac
 
 ---
 
-### Tip #6: Just get going!
+### Tip #7: Just get going!
 
 <img src="hello-world.jpg"  alt="drawing" style="width:700px;" />
 
